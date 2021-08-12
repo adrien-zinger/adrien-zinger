@@ -33,6 +33,14 @@
 - Personal sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
 - Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 
+## 🔭 I’m currently working on
+
+A lib that take profits of coroutines in python, in order to use it as a Promise in JS
+-> [pyTask](https://github.com/adrien-zinger/pyTasks)
+
+A ray caster game in **_RUST_**, that's a common exercise in engeneering schools.
+-> [rayCharles](https://github.com/adrien-zinger/raycharles)
+
 <!--
 **adrien-zinger/adrien-zinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
