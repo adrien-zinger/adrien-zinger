@@ -1,3 +1,5 @@
+# Here is all my bg projects
+
 ## Javascript / html projects
 
 ### Front
@@ -41,7 +43,10 @@
 A lib that take profits of coroutines in python, in order to use it as a Promise in JS
 -> [pyTask](https://github.com/adrien-zinger/pyTasks)
 
-A ray caster game in **_RUST_**, that's a common exercise in engeneering schools.
+A peer to peer program in **_Rust_** that open a chat between nodes, I want to create a data sharing system between code repositories through the network.
+-> [Luc](https://github.com/adrien-zinger/luc/)
+
+A ray caster game in **_Rust_**, that's a common exercise in engeneering schools.
 -> [rayCharles](https://github.com/adrien-zinger/raycharles)
 
 <!--
