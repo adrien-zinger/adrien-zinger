@@ -33,6 +33,9 @@
 - Personal sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
 - Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 
+## Programming language theory
+- "X"-Expression language to AST [here](https://github.com/adrien-zinger/language_to_ast)
+
 ## 🔭 I’m currently working on
 
 A lib that take profits of coroutines in python, in order to use it as a Promise in JS
