@@ -1,26 +1,16 @@
 # Here is all my bg projects
 
-## Javascript / html projects
+## 🔭 I’m currently working on
 
-### Front
-- React graphic library [rstrtt](https://github.com/adrien-zinger/rstrtt)
-- Personalised MJML button (pure front end work) [mjml-mso-button](https://github.com/adrien-zinger/mjml-mso-button)
-- Basic flat list [WhatsAFlatlist](https://github.com/adrien-zinger/WhatsAFlatlist)
+A lib that take profits of coroutines in python, in order to use it as a Promise in JS
+-> [pyTask](https://github.com/adrien-zinger/pyTasks)
 
-### Parser tools
-- XLSX Parser [xlsx-parsing-tools](https://github.com/adrien-zinger/xlsx-parsing-tools)
-- XML Parser [xml-js-reader](https://github.com/adrien-zinger/xml-js-reader)
+A peer to peer program in **_Rust_** that open a chat between nodes, I want to create a data sharing system between code repositories through the network.
+-> [Luc](https://github.com/adrien-zinger/luc/)
 
-### Algo
-- Typescript bucket with genetics / search paths algorithm [bucket-typescript](https://github.com/adrien-zinger/bucket-typescript)
-  - Astar
-  - ACM
-  - Genetic library
-  - Alpha beta
-  - bisection
+A ray caster game in **_Rust_**, that's a common exercise in engeneering schools.
+-> [rayCharles](https://github.com/adrien-zinger/raycharles)
 
-### Other
-- ES6+ Sandbox to test advanced functionnalities [super-potato](https://github.com/adrien-zinger/super-potato)
 
 ## Python Algos
 
@@ -36,18 +26,29 @@
 - Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 
 ## Programming language theory
-- "X"-Expression language to AST [here](https://github.com/adrien-zinger/language_to_ast)
+- "X"-Expression language to AST in Rust [here](https://github.com/adrien-zinger/language_to_ast)
 
-## 🔭 I’m currently working on
+## Javascript / html projects
 
-A lib that take profits of coroutines in python, in order to use it as a Promise in JS
--> [pyTask](https://github.com/adrien-zinger/pyTasks)
+### Front
+- React graphic library [rstrtt](https://github.com/adrien-zinger/rstrtt)
+- Personalised MJML button (pure front end work) [mjml-mso-button](https://github.com/adrien-zinger/mjml-mso-button)
+- Basic flat list [WhatsAFlatlist](https://github.com/adrien-zinger/WhatsAFlatlist)
 
-A peer to peer program in **_Rust_** that open a chat between nodes, I want to create a data sharing system between code repositories through the network.
--> [Luc](https://github.com/adrien-zinger/luc/)
+### Parser tools
+- XLSX Parser [xlsx-parsing-tools](https://github.com/adrien-zinger/xlsx-parsing-tools)
+- XML Parser [xml-js-reader](https://github.com/adrien-zinger/xml-js-reader)
 
-A ray caster game in **_Rust_**, that's a common exercise in engeneering schools.
--> [rayCharles](https://github.com/adrien-zinger/raycharles)
+### ⚡ Algo
+- Typescript bucket with genetics / search paths algorithm [bucket-typescript](https://github.com/adrien-zinger/bucket-typescript)
+  - Astar
+  - ACM
+  - Genetic library
+  - Alpha beta
+  - bisection
+
+### Other
+- ES6+ Sandbox to test advanced functionnalities [super-potato](https://github.com/adrien-zinger/super-potato)
 
 <!--
 **adrien-zinger/adrien-zinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
