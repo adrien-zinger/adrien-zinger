@@ -24,6 +24,7 @@ A ray caster game in **_Rust_**, that's a common exercise in engeneering schools
 
 - Personal sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
 - Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
+- Computing TF-IDF recursivelly in a directory (can be used for fast retreival information) [TF-IDF](https://github.com/adrien-zinger/TF-IDF)
 
 ## Programming language theory
 - "X"-Expression language to AST in Rust [here](https://github.com/adrien-zinger/language_to_ast)
