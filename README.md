@@ -13,7 +13,7 @@ It can also go throught another way, the synchronisation can be usefull to execu
 -> [Luc](https://github.com/adrien-zinger/luc/)
 
 
-## Python Algos
+## Python
 
 - Dynamic astar [dynamic_astar_xpl](https://github.com/adrien-zinger/dynamic_astar_xpl)
 - Bisection tools [bisection_python](https://github.com/adrien-zinger/bisection_python)
@@ -23,15 +23,14 @@ It can also go throught another way, the synchronisation can be usefull to execu
 
 ## C++/Rust
 
-- Personal sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
 - Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 - Computing TF-IDF recursivelly in a directory (can be used for fast retreival information) [TF-IDF](https://github.com/adrien-zinger/TF-IDF)
 - Create diff between files and apply/restore [Diff](https://github.com/adrien-zinger/Diff)
 
 ## Programming language theory
-- "X"-Expression language to AST in Rust [here](https://github.com/adrien-zinger/language_to_ast)
+- "X"-Expression language to AST in _**Rust**_ [here](https://github.com/adrien-zinger/language_to_ast)
 
-## Javascript / html projects
+## JS/TS/Front
 
 ### Front
 - React graphic library [rstrtt](https://github.com/adrien-zinger/rstrtt)
@@ -51,6 +50,7 @@ It can also go throught another way, the synchronisation can be usefull to execu
   - bisection
 
 ### Other
+- Personal C++ sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
 - ES6+ Sandbox to test advanced functionnalities [super-potato](https://github.com/adrien-zinger/super-potato)
 - A lib that take profits of coroutines in python, in order to use it as a Promise in JS
 -> [pyTask](https://github.com/adrien-zinger/pyTasks)
