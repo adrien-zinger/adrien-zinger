@@ -4,7 +4,7 @@
 
 ### Luc 
 A P2P architecture developed in **_Rust_** that is a swiss knife were I put everything I think interessant or funny to do.
-This start with a chat that and to a asynchrone logger in a P2P network.
+This project started with a simple chat and led to an asynchrone/synchrone logger in a P2P network.
 <!--
 It will lead to a data sharing system between code repositories through the network. But it can be usefull for some hack because it should implement a global synchronisation in small groups. A project orchestra has to be implemented to check if multiple nodes can be synchronised. And finaly I want to use my projects Diff and TF-IDF to provide a datasharing system fully synchronised with the help of git bare repositories.
 
