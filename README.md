@@ -1,9 +1,11 @@
 ### C++/Rust/Python
-- Exercise, lib to make async statistics of array of numbers [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
+- Exercise, lib of async statistics [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 - Computing TF-IDF recursivelly in a directory (can be used for fast retreival information) [TF-IDF](https://github.com/adrien-zinger/TF-IDF)
 - Create diff between files and apply/restore [Diff](https://github.com/adrien-zinger/Diff)
 - [pyTask](https://github.com/adrien-zinger/pyTasks), Create event loops in paralell threads, similar as a Promise in JS
 - [Liff](https://crates.io/crates/liff) crate 🍃
+- [massa](https://github.com/massalabs/massa) decentralized blockchain that use multithreading
+- [smart contract runtime](https://github.com/massalabs/sc-runtime) using wasmer in rust to run webassembly
 
 ### Programming language theory
 - "X"-Expression language to AST in _**Rust**_ [here](https://github.com/adrien-zinger/language_to_ast) 
@@ -14,12 +16,8 @@
 - Tree length evaluation [pb_tree_length](https://github.com/adrien-zinger/pb_tree_length)
 - Get number of possible path in a graph [number_of_paths](https://github.com/adrien-zinger/number_of_paths)
 - Cicle detection BFS [BFS_Cycles_detection](https://github.com/adrien-zinger/BFS_Cycles_detection)
-- Typescript bucket with genetics / search paths algorithm [bucket-typescript](https://github.com/adrien-zinger/bucket-typescript)
-  - Astar
-  - ACM
-  - Genetic library
-  - Alpha beta
-  - bisection
+
+I also have a typescript bucket with genetics / search paths algorithm [bucket-typescript](https://github.com/adrien-zinger/bucket-typescript) to be cleaned (Astar, ACM, Genetic IA library, Alpha beta, bisection)
 
 ### Front development
 
