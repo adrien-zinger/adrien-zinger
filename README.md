@@ -1,9 +1,9 @@
 ### C++/Rust/Python
 - Exercise, lib of async statistics [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
-- Computing TF-IDF recursivelly in a directory (can be used for fast retreival information) [TF-IDF](https://github.com/adrien-zinger/TF-IDF)
-- Create diff between files and apply/restore [Diff](https://github.com/adrien-zinger/Diff)
+- [TF-IDF](https://github.com/adrien-zinger/TF-IDF) Computing word frequency recursivelly in a directory in C++ (can be used for fast retreival information) 
 - [pyTask](https://github.com/adrien-zinger/pyTasks), Create event loops in paralell threads, similar usage as a Promise in JS
-- [Liff](https://crates.io/crates/liff) crate 🍃
+- [Liff](https://crates.io/crates/liff) crate 🍃 To make the smallest patch between binaries
+  - [Diff](https://github.com/adrien-zinger/Diff) Use liff in a command line tool
 - [massa](https://github.com/massalabs/massa) decentralized blockchain that use multithreading
 - [smart contract runtime](https://github.com/massalabs/sc-runtime) using wasmer in rust to run webassembly
 - [Cornetto](https://crates.io/crates/cornetto) 🥐 A usefull tool to manage constant configuration in rust
