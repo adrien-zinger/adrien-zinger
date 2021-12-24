@@ -6,6 +6,7 @@
 - [Liff](https://crates.io/crates/liff) crate 🍃
 - [massa](https://github.com/massalabs/massa) decentralized blockchain that use multithreading
 - [smart contract runtime](https://github.com/massalabs/sc-runtime) using wasmer in rust to run webassembly
+- [Cornetto](https://crates.io/crates/cornetto) 🥐 A usefull tool to manage constant configuration in rust
 
 ### Programming language theory
 - "X"-Expression language to AST in _**Rust**_ [here](https://github.com/adrien-zinger/language_to_ast) 
