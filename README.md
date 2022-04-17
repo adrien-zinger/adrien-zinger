@@ -1,3 +1,8 @@
+### Links before projects
+Resume of my life, [adrien-zinger.com](http://www.adrien-zinger.com/) 📆 <br />
+Tech blog, [\*Cappuccino\*](https://cppccn.xyz/) ☕ <br />
+Drawings on instagram as [adal rozin](https://www.instagram.com/adalrozin/?hl=it) 🖌️
+
 ### C++/Rust/Python
 - Exercise, lib of async statistics [async_stat_module](https://github.com/adrien-zinger/async_stat_module)
 - [TF-IDF](https://github.com/adrien-zinger/TF-IDF) Computing word frequency recursivelly in a directory in C++ (can be used for fast retreival information) 
