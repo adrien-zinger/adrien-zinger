@@ -1,5 +1,5 @@
 ### Links before projects
-Resume of my life, [adrien-zinger.com](http://www.adrien-zinger.com/) 📆 <br />
+Resume of my life, [presentation](https://www.maybeuninit.com/presentation) 📆 <br />
 Tech blog, [\*maybeuninit\*](https://www.maybeuninit.com/) ☕ <br />
 Drawings on instagram as [adal rozin](https://www.instagram.com/adalrozin/?hl=it) 🖌️
 
