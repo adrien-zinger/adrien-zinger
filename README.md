@@ -1,6 +1,6 @@
 ### Links before projects
 Resume of my life, [adrien-zinger.com](http://www.adrien-zinger.com/) 📆 <br />
-Tech blog, [\*Cappuccino\*](https://cppccn.xyz/) ☕ <br />
+Tech blog, [\*maybeuninit\*](https://maybeuninit.com/) ☕ <br />
 Drawings on instagram as [adal rozin](https://www.instagram.com/adalrozin/?hl=it) 🖌️
 
 ### C++/Rust/Python
