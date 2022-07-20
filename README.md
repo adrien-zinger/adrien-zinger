@@ -13,9 +13,6 @@ Drawings on instagram as [adal rozin](https://www.instagram.com/adalrozin/?hl=it
 - [smart contract runtime](https://github.com/massalabs/sc-runtime) using wasmer in rust to run webassembly
 - [Cornetto](https://crates.io/crates/cornetto) 🥐 A usefull tool to manage constant configuration in rust
 
-### Programming language theory
-- "X"-Expression language to AST in _**Rust**_ [here](https://github.com/adrien-zinger/language_to_ast) 
-
 ### Small algorithm implementation
 - Dynamic astar [dynamic_astar_xpl](https://github.com/adrien-zinger/dynamic_astar_xpl)
 - Bisection tools [bisection_python](https://github.com/adrien-zinger/bisection_python)
@@ -26,17 +23,5 @@ Drawings on instagram as [adal rozin](https://www.instagram.com/adalrozin/?hl=it
 I also have a typescript bucket with genetics / search paths algorithm [bucket-typescript](https://github.com/adrien-zinger/bucket-typescript) to be cleaned (Astar, ACM, Genetic IA library, Alpha beta, bisection)
 
 ### Front development
-
 - React graphic library [rstrtt](https://github.com/adrien-zinger/rstrtt)
 - Personalised MJML button (pure front end work) [mjml-mso-button](https://github.com/adrien-zinger/mjml-mso-button)
-
-### Parsing tools in js
-- XLSX Parser [xlsx-parsing-tools](https://github.com/adrien-zinger/xlsx-parsing-tools)
-- XML Parser [xml-js-reader](https://github.com/adrien-zinger/xml-js-reader)
-
-### Sandboxes
-- Personal C++ sandbox for windows.. [basic_cpp_cmake](https://github.com/adrien-zinger/basic_cpp_cmake)
-- ES6+ Sandbox to test advanced functionnalities [super-potato](https://github.com/adrien-zinger/super-potato)
-
-A ray caster game in **_Rust_**, that's a common exercise in engeneering schools.
--> [rayCharles](https://github.com/adrien-zinger/raycharles)
